@@ -1,0 +1,6 @@
+{
+  "name": "Gemini Music",
+  "description": "Crea pistas musicales de 30 segundos con IA Gemini y mézclalas en producciones únicas de 2 a 5 pistas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
